@@ -1,0 +1,15 @@
+git init 
+
+git clone <link>
+
+### Make some changes in files 
+
+git status 
+
+git add .
+
+git commit -m "My message"
+
+git set-remote origin <link>
+
+git oush origin master
